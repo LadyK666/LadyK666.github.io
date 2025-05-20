@@ -10,5 +10,5 @@ Hi, I'm **Chenyu Kang**, an undergraduate student majoring in Software Engineeri
 I'm passionate about machine learning, natural language processing, and software development.  
 Currently, I'm exploring research opportunities and building hands-on experience through projects and open-source collaboration.
 
-Feel free to contact me at: kangchenyu8@gmail.com
+Feel free to contact me at: kangchenyu8@gmail.com or u202317348@hust.edu.cn
 
